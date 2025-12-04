@@ -1,7 +1,7 @@
 📈 Infection Risk Prediction using Machine Learning
 A Complete End-to-End Predictive Analytics Case Study
 
-⭐ Why This Project Matters (For Recruiters)
+⭐ Why This Project Matters 
 
 This repository demonstrates my ability to:
 
