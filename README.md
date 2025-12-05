@@ -1,107 +1,90 @@
-📈 Infection Risk Prediction using Machine Learning
-A Complete End-to-End Predictive Analytics Case Study
-⭐ Why This Project Matters
+# 📈 Infection Risk Prediction using Machine Learning  
+### A Complete End-to-End Predictive Analytics Case Study
+
+---
+
+## ⭐ Why This Project Matters
 
 This project demonstrates my capability to build and deliver a complete machine learning solution—from raw data to actionable insights. It showcases my ability to:
 
-Develop a fully operational end-to-end ML pipeline
+- Develop a fully operational **end-to-end ML pipeline**  
+- Perform **data cleaning, feature engineering, and model training**  
+- Transform messy, real-world datasets into **useful analytical outputs**  
+- Apply predictive modeling techniques to a **public health domain**  
+- Communicate findings clearly through a structured analytical workflow  
 
-Perform data cleaning, feature engineering, and model training
+This repository reflects my approach to real-world analytics: clarity, reproducibility, and practical value.
 
-Transform messy, real-world datasets into useful analytical outputs
+---
 
-Apply predictive modeling techniques to a public health problem
+## 🔍 1. Project Overview
 
-Present insights clearly through a structured and reproducible workflow
+This project predicts whether an individual is **at high risk of infection** based on demographic, behavioral, and medical attributes.  
+The goal is to support early detection and healthcare prioritization.
 
-This repository reflects how I approach real-world analytics: focusing on clarity, rigor, reproducibility, and practical value.
+The workflow includes:
 
-🔍 1. Project Overview
+- **Exploratory Data Analysis (EDA)**  
+- **Data preprocessing**  
+- **Feature engineering**  
+- **Model training and comparison**  
+- **Performance evaluation**  
+- **Report summarization**  
 
-This project aims to predict whether an individual is at risk of infection using demographic, behavioral, and medical variables.
-The model supports early identification of high-risk individuals for healthcare planning and intervention.
+---
 
-The analytical pipeline includes:
+## 🧠 2. Key Skills Demonstrated
 
-Exploratory Data Analysis (EDA)
+- Supervised machine learning (classification)  
+- Data cleaning & feature engineering  
+- Model evaluation (Accuracy, Precision, Recall, F1, ROC-AUC)  
+- Exploratory Data Analysis (visualization + statistics)  
+- Python: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- Reproducible and modular ML project structure  
+- Clear communication of insights  
 
-Data preprocessing and cleaning
+These skills align strongly with roles such as:
 
-Feature engineering and transformation
+- **Data Scientist**  
+- **Machine Learning Engineer**  
+- **Data Analyst**  
+- **Health Analytics Specialist**
 
-Model training and comparison
+---
 
-Performance evaluation and interpretation
+## 📊 3. Methods & Approach
 
-Final reporting and insights
+### **Exploratory Data Analysis (EDA)**  
+- Summary statistics  
+- Missing value analysis  
+- Outlier detection  
+- Correlation matrices  
+- Feature distribution plots  
 
-🧠 2. Key Skills Demonstrated
+### **Preprocessing**  
+- Handling missing/inconsistent values  
+- Encoding categorical variables  
+- Scaling numerical features  
+- Train–test split  
 
-This project highlights practical skills aligned with roles such as Data Scientist, Machine Learning Engineer, Data Analyst, and Health Analytics Specialist:
+### **Feature Engineering**  
+- Derived features  
+- Domain-based transformations  
+- Normalization / standardization  
 
-Supervised machine learning (classification)
+### **Models Evaluated**  
+- Logistic Regression  
+- Random Forest  
+- Gradient Boosting (optional)
 
-Data preprocessing and feature engineering
+### **Evaluation Metrics**  
+- Accuracy  
+- Precision & Recall  
+- F1-score  
+- ROC-AUC  
+- Confusion Matrix  
 
-Model evaluation using key performance metrics
+These metrics ensure robust evaluation, especially with imbalanced datasets.
 
-Exploratory Data Analysis using visualization and statistics
+---
 
-Python libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-
-Jupyter-based documentation and reproducible workflows
-
-Clear communication of findings and analytical reasoning
-
-📊 3. Methods & Approach
-Exploratory Data Analysis (EDA)
-
-Summary statistics and initial profiling
-
-Missing value inspection
-
-Outlier detection
-
-Correlation mapping
-
-Feature distributions and relationships
-
-Preprocessing
-
-Handling missing or inconsistent values
-
-Encoding categorical variables
-
-Scaling numerical features
-
-Splitting into training and test sets
-
-Feature Engineering
-
-Creating derived variables
-
-Applying meaningful domain-based transformations
-
-Normalizing or standardizing features where appropriate
-
-Models Evaluated
-
-Logistic Regression
-
-Random Forest Classifier
-
-Gradient Boosting models (optional)
-
-Evaluation Metrics
-
-Accuracy
-
-Precision & Recall
-
-F1 Score
-
-ROC-AUC
-
-Confusion Matrix
-
-These metrics provide a comprehensive view of classification performance, especially for imbalanced datasets.
