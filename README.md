@@ -1,107 +1,107 @@
 📈 Infection Risk Prediction using Machine Learning
 A Complete End-to-End Predictive Analytics Case Study
+⭐ Why This Project Matters
 
-⭐ Why This Project Matters 
+This project demonstrates my capability to build and deliver a complete machine learning solution—from raw data to actionable insights. It showcases my ability to:
 
-This repository demonstrates my ability to:
+Develop a fully operational end-to-end ML pipeline
 
-Build a real end-to-end machine learning pipeline
+Perform data cleaning, feature engineering, and model training
 
-Perform data cleaning, feature engineering, model training, and evaluation
+Transform messy, real-world datasets into useful analytical outputs
 
-Convert messy raw data into actionable insights
+Apply predictive modeling techniques to a public health problem
 
-Apply ML to a relevant public-health domain
+Present insights clearly through a structured and reproducible workflow
 
-Communicate results clearly through a structured analytical workflow
-
-It represents how I approach real-world analytics problems—focusing on reproducibility, clarity, and business value.
+This repository reflects how I approach real-world analytics: focusing on clarity, rigor, reproducibility, and practical value.
 
 🔍 1. Project Overview
 
-This project predicts whether an individual is at high risk of infection based on demographic, behavioral, and medical attributes.
-The objective is to support early identification for healthcare prioritization and risk management.
+This project aims to predict whether an individual is at risk of infection using demographic, behavioral, and medical variables.
+The model supports early identification of high-risk individuals for healthcare planning and intervention.
 
-The workflow covers:
+The analytical pipeline includes:
 
 Exploratory Data Analysis (EDA)
 
-Data preprocessing
+Data preprocessing and cleaning
 
-Feature engineering
+Feature engineering and transformation
 
-Multiple model comparisons
+Model training and comparison
 
-Performance evaluation
+Performance evaluation and interpretation
 
-Report summarizing findings
+Final reporting and insights
 
 🧠 2. Key Skills Demonstrated
 
-Machine Learning (Supervised Classification)
+This project highlights practical skills aligned with roles such as Data Scientist, Machine Learning Engineer, Data Analyst, and Health Analytics Specialist:
 
-Data Cleaning & Feature Engineering
+Supervised machine learning (classification)
 
-Model Evaluation: Accuracy, F1, ROC-AUC
+Data preprocessing and feature engineering
 
-Exploratory Data Analysis
+Model evaluation using key performance metrics
 
-Python (Pandas, Scikit-learn, Matplotlib, Seaborn)
+Exploratory Data Analysis using visualization and statistics
 
-Jupyter Notebook Documentation
+Python libraries: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 
-Reproducible ML Project Structure
+Jupyter-based documentation and reproducible workflows
 
-Communicating insights with clarity
+Clear communication of findings and analytical reasoning
 
-These skills align directly with roles such as Data Analyst, Data Scientist, ML Engineer, Business Analyst, and Health Analytics roles.
+📊 3. Methods & Approach
+Exploratory Data Analysis (EDA)
 
+Summary statistics and initial profiling
 
-📊3. Methods & Approach
-Exploratory Data Analysis
+Missing value inspection
 
-Data summary and descriptive statistics
+Outlier detection
 
-Missing value and outlier detection
+Correlation mapping
 
-Correlation heatmaps
-
-Distribution plots
+Feature distributions and relationships
 
 Preprocessing
 
-Handling missing values
+Handling missing or inconsistent values
 
 Encoding categorical variables
 
-Scaling continuous features
+Scaling numerical features
 
-Train-test split
+Splitting into training and test sets
 
 Feature Engineering
 
-Derived variables
+Creating derived variables
 
-Domain-driven transformations
+Applying meaningful domain-based transformations
 
-Normalization and standardization
+Normalizing or standardizing features where appropriate
 
 Models Evaluated
 
 Logistic Regression
 
-Random Forest
+Random Forest Classifier
 
-Gradient Boosting (optional)
+Gradient Boosting models (optional)
 
 Evaluation Metrics
 
 Accuracy
 
-Precision, Recall
+Precision & Recall
 
-F1 score
+F1 Score
 
 ROC-AUC
 
-Confusion matrix
+Confusion Matrix
+
+These metrics provide a comprehensive view of classification performance, especially for imbalanced datasets.
