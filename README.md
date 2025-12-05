@@ -1,9 +1,9 @@
-# 📈 Infection Risk Prediction using Machine Learning  
+#  Infection Risk Prediction using Machine Learning  
 ### A Complete End-to-End Predictive Analytics Case Study
 
 ---
 
-## ⭐ Why This Project Matters
+##  Why This Project Matters
 
 This project demonstrates my capability to build and deliver a complete machine learning solution—from raw data to actionable insights. It showcases my ability to:
 
@@ -17,7 +17,7 @@ This repository reflects my approach to real-world analytics: clarity, reproduci
 
 ---
 
-## 🔍 1. Project Overview
+##  1. Project Overview
 
 This project predicts whether an individual is **at high risk of infection** based on demographic, behavioral, and medical attributes.  
 The goal is to support early detection and healthcare prioritization.
@@ -33,7 +33,7 @@ The workflow includes:
 
 ---
 
-## 🧠 2. Key Skills Demonstrated
+##  2. Key Skills Demonstrated
 
 - Supervised machine learning (classification)  
 - Data cleaning & feature engineering  
@@ -52,7 +52,7 @@ These skills align strongly with roles such as:
 
 ---
 
-## 📊 3. Methods & Approach
+##  3. Methods & Approach
 
 ### **Exploratory Data Analysis (EDA)**  
 - Summary statistics  
